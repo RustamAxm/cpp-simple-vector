@@ -1,2 +1,6 @@
 # cpp-simple-vector
-Финальный проект: собственный контейнер вектор
+Project in Yandex Practicum  
+### array_ptr 
+Support class for vector implementation 
+### main 
+Tests and usage case
